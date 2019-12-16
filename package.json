@@ -1,0 +1,16 @@
+{
+  "name": "s3lat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thotho",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "forever": "^1.0.0",
+    "node-schedule": "^1.3.2"
+  }
+}
